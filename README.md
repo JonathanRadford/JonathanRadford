@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-Hi there! My name is Jonny and I'm a Software Developer. 
+My name is Jonny and I'm a Software Developer. 
 
